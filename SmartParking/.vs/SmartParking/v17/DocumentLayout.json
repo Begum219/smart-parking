@@ -1,0 +1,1371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\penaltycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\penaltycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\parkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\parkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\parkingsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\parkingsessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\parkingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\iparkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\iparkingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\parkingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\parkingsessions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\parkingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\parkingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\parkingspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\parkingspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\detectedvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\detectedvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\parkingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\parkingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\parkingspacesyncdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\parkingspacesyncdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20260319102003_addyamukparkfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20260319102003_addyamukparkfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\penaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\penaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\ipenaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\ipenaltyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\multispaceviolationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\multispaceviolationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\penaltydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\penaltydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\roadviolationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\roadviolationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\penalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\penaltyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\penaltyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\ipenaltyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\ipenaltyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\pricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\pricingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\parkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\parkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\parkingsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\parkingsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\iparkingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\iparkingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\iparkingsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\iparkingsessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20260315001436_addvehicleinfotopenalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20260315001436_addvehicleinfotopenalty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\data\\smartparkingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\data\\smartparkingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\detectionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\detectionlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20260103222343_makeparkingspaceidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20260103222343_makeparkingspaceidnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20260103214202_adddetectionfieldstoparkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20260103214202_adddetectionfieldstoparkingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\parkingstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\parkingstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.apii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B94739-EA67-4B20-85FB-E1DAC121CD96}|SmartParking.APII\\SmartParking.APII.csproj|solutionrelative:smartparking.apii\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\data\\smartparkingdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\data\\smartparkingdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\enums\\sessionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\enums\\sessionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\enums\\parkingspacestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\enums\\parkingspacestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.domain\\entities\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458B3BE7-BD61-4773-BA19-5645D91E439D}|SmartParking.Domain\\SmartParking.Domain.csproj|solutionrelative:smartparking.domain\\entities\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BE896D-BE44-40FD-804E-15D9F2BB78A8}|SmartParking.Application\\SmartParking.Application.csproj|solutionrelative:smartparking.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20251120103659_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20251120103659_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20251126073206_changeroletoenumwithdataconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20251126073206_changeroletoenumwithdataconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|c:\\users\\w11\\desktop\\smartparking\\smartparking\\smartparking.infrastructure\\migrations\\20260225124331_addpenaltyandparkingenhancements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C155D2CC-B527-4A9B-8432-6254CB25E757}|SmartParking.Infrastructure\\SmartParking.Infrastructure.csproj|solutionrelative:smartparking.infrastructure\\migrations\\20260225124331_addpenaltyandparkingenhancements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkingController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\ParkingController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\ParkingController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\ParkingController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\ParkingController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwIgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:00:55.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParkingSessions.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\ParkingSessions.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\ParkingSessions.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\ParkingSessions.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\ParkingSessions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:04:48.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingSessionDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSessionDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\ParkingSessionDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSessionDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\ParkingSessionDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:34:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IVehicleRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:12:39.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IParkingService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IParkingService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IParkingService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IParkingService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IParkingService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:42:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetectedVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\DetectedVehicleDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\DetectedVehicleDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\DetectedVehicleDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\DetectedVehicleDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:51:01.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PenaltyController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\PenaltyController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\PenaltyController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\PenaltyController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\PenaltyController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:36:13.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParkingSpace.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\ParkingSpace.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\ParkingSpace.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\ParkingSpace.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\ParkingSpace.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:54:36.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\ParkingService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\ParkingService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\ParkingService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\ParkingService.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAswNAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:52:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParkingSpaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSpaceDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\ParkingSpaceDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSpaceDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\ParkingSpaceDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:32:45.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:00:14.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParkingSpaceSyncDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSpaceSyncDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\ParkingSpaceSyncDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingSpaceSyncDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\ParkingSpaceSyncDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:06:01.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParkingSpaceController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\ParkingSpaceController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\ParkingSpaceController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\ParkingSpaceController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\ParkingSpaceController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:13:03.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260319102003_AddYamukParkFields.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260319102003_AddYamukParkFields.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260319102003_AddYamukParkFields.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260319102003_AddYamukParkFields.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260319102003_AddYamukParkFields.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:20:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PenaltyService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\PenaltyService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\PenaltyService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\PenaltyService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\PenaltyService.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswJ8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:17:15.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IPenaltyService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IPenaltyService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IPenaltyService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IPenaltyService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IPenaltyService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:17:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PenaltyDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\PenaltyDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\PenaltyDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\PenaltyDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\PenaltyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T18:37:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoadViolationDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\RoadViolationDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\RoadViolationDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\RoadViolationDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\RoadViolationDto.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:08:41.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Penalty.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Penalty.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\Penalty.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Penalty.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\Penalty.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T11:42:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultiSpaceViolationDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\MultiSpaceViolationDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\MultiSpaceViolationDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\MultiSpaceViolationDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\MultiSpaceViolationDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T10:06:48.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PenaltyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\PenaltyRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\PenaltyRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\PenaltyRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\PenaltyRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:06:22.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPenaltyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IPenaltyRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IPenaltyRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IPenaltyRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IPenaltyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:05:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:31:29.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Program.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Program.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Program.cs",
+              "RelativeToolTip": "SmartParking.APII\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:16:04.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\PaymentDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:37:16.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\PaymentService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowH0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:52:15.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAYwO8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:52:59.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ParkingSpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\ParkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\ParkingSpaceRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\ParkingSpaceRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\ParkingSpaceRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:17:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:06:18.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PricingRule.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\PricingRule.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\PricingRule.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\PricingRule.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\PricingRule.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:08:09.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ParkingSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\ParkingSessionRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\ParkingSessionRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\ParkingSessionRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\ParkingSessionRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:18:55.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:19:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IParkingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IParkingRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IParkingRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IParkingRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IParkingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:13:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IParkingSessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IParkingSessionRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IParkingSessionRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IParkingSessionRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IParkingSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:14:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:14:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20260315001436_AddVehicleInfoToPenalty.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260315001436_AddVehicleInfoToPenalty.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260315001436_AddVehicleInfoToPenalty.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260315001436_AddVehicleInfoToPenalty.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260315001436_AddVehicleInfoToPenalty.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T00:14:36.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:10:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:21:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T05:50:03.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:41:57.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20260225123813_AddPenaltyAndParkingEnhancements.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260225123813_AddPenaltyAndParkingEnhancements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:38:14.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20260225124331_AddPenaltyAndParkingEnhancements.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260225124331_AddPenaltyAndParkingEnhancements.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260225124331_AddPenaltyAndParkingEnhancements.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260225124331_AddPenaltyAndParkingEnhancements.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260225124331_AddPenaltyAndParkingEnhancements.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAswOYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:43:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SmartParkingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Data\\SmartParkingDbContext.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Data\\SmartParkingDbContext.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Data\\SmartParkingDbContext.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Data\\SmartParkingDbContext.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswJkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:19:52.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DetectionLog.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\DetectionLog.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\DetectionLog.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\DetectionLog.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\DetectionLog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:07:39.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:51:56.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260103214202_AddDetectionFieldsToParkingSession.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260103214202_AddDetectionFieldsToParkingSession.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260103214202_AddDetectionFieldsToParkingSession.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260103214202_AddDetectionFieldsToParkingSession.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260103214202_AddDetectionFieldsToParkingSession.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:42:03.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260103222343_MakeParkingSpaceIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260103222343_MakeParkingSpaceIdNullable.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20260103222343_MakeParkingSpaceIdNullable.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20260103222343_MakeParkingSpaceIdNullable.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20260103222343_MakeParkingSpaceIdNullable.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T22:23:44.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:53:56.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\VehicleService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\VehicleService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:47:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\CreateVehicleDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:29:18.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:28:43.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ParkingStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingStatusDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\ParkingStatusDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ParkingStatusDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\ParkingStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:34:06.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:42:23.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:27:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\ChangePasswordDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:19:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartParking.APII\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-24T11:13:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:52:44.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:46:18.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:09:27.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:11:39.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartParking.APII\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SmartParking.APII\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:15:02.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "SmartParking.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:36:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:11:32.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20251126073206_ChangeRoleToEnumWithDataConversion.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20251126073206_ChangeRoleToEnumWithDataConversion.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20251126073206_ChangeRoleToEnumWithDataConversion.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20251126073206_ChangeRoleToEnumWithDataConversion.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20251126073206_ChangeRoleToEnumWithDataConversion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:32:06.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:07:07.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:56:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:18:21.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:16:34.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:25:21.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:26:47.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "SmartParking.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:26:04.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartParking.APII\\appsettings.json",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.APII\\appsettings.json",
+              "RelativeToolTip": "SmartParking.APII\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T10:13:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "SmartParking.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:47:24.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "SmartParkingDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Data\\SmartParkingDbContextFactory.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Data\\SmartParkingDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Data\\SmartParkingDbContextFactory.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Data\\SmartParkingDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:30:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:17:12.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T11:15:58.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20251120103659_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20251120103659_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Migrations\\20251120103659_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Migrations\\20251120103659_InitialCreate.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Migrations\\20251120103659_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:36:59.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:16:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SessionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\SessionStatus.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Enums\\SessionStatus.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\SessionStatus.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Enums\\SessionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:13:51.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ParkingSpaceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\ParkingSpaceStatus.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Enums\\ParkingSpaceStatus.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Enums\\ParkingSpaceStatus.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Enums\\ParkingSpaceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:13:15.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Camera.cs",
+              "RelativeDocumentMoniker": "SmartParking.Domain\\Entities\\Camera.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Domain\\Entities\\Camera.cs",
+              "RelativeToolTip": "SmartParking.Domain\\Entities\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:54:14.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "SmartParking.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "SmartParking.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:15:52.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "SmartParking.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\w11\\Desktop\\SmartParking\\SmartParking\\SmartParking.Application\\Class1.cs",
+              "RelativeToolTip": "SmartParking.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T07:15:25.422Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

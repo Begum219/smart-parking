@@ -1,0 +1,28 @@
+^C:\USERS\W11\DESKTOP\SMARTPARKING\SMARTPARKING_MOBILE\BUILD\WINDOWS\X64\CMAKEFILES\812B4E30E036BEE57386AFC91FC12141\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\dev\flutter\flutter PROJECT_DIR=C:\Users\w11\Desktop\SmartParking\smartparking_mobile FLUTTER_ROOT=C:\dev\flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\w11\Desktop\SmartParking\smartparking_mobile\windows\flutter\ephemeral PROJECT_DIR=C:\Users\w11\Desktop\SmartParking\smartparking_mobile FLUTTER_TARGET=C:\Users\w11\Desktop\SmartParking\smartparking_mobile\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\w11\Desktop\SmartParking\smartparking_mobile\.dart_tool\package_config.json C:/dev/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\W11\DESKTOP\SMARTPARKING\SMARTPARKING_MOBILE\BUILD\WINDOWS\X64\CMAKEFILES\23DF3BF1B9F7EF175B137DE91A833AE2\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\W11\DESKTOP\SMARTPARKING\SMARTPARKING_MOBILE\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/w11/Desktop/SmartParking/smartparking_mobile/windows -BC:/Users/w11/Desktop/SmartParking/smartparking_mobile/build/windows/x64 --check-stamp-file C:/Users/w11/Desktop/SmartParking/smartparking_mobile/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

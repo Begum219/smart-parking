@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\w11\Desktop\SmartParking\smartparking_mobile\build\windows\x64\CMakeFiles\812b4e30e036bee57386afc91fc12141\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\w11\Desktop\SmartParking\smartparking_mobile\build\windows\x64\CMakeFiles\23df3bf1b9f7ef175b137de91a833ae2\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\w11\Desktop\SmartParking\smartparking_mobile\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\w11\Desktop\SmartParking\smartparking_mobile\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F45E0FD-CC8C-3201-A018-7038B347293E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

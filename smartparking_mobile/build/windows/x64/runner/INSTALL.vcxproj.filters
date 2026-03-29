@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\w11\Desktop\SmartParking\smartparking_mobile\build\windows\x64\CMakeFiles\ca6873d0351a873587e0872cf63e324d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1F45E0FD-CC8C-3201-A018-7038B347293E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

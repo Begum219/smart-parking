@@ -1,0 +1,15 @@
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\bin\Debug\net8.0\SmartParking.Application.deps.json
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\bin\Debug\net8.0\SmartParking.Application.dll
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\bin\Debug\net8.0\SmartParking.Application.pdb
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\bin\Debug\net8.0\SmartParking.Domain.dll
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\bin\Debug\net8.0\SmartParking.Domain.pdb
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.csproj.AssemblyReference.cache
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.AssemblyInfoInputs.cache
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.AssemblyInfo.cs
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.csproj.CoreCompileInputs.cache
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartPar.61EB95DE.Up2Date
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.dll
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\refint\SmartParking.Application.dll
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\SmartParking.Application.pdb
+C:\Users\w11\Desktop\SmartParking\SmartParking\SmartParking.Application\obj\Debug\net8.0\ref\SmartParking.Application.dll
